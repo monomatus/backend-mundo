@@ -16,7 +16,7 @@ Instrucciones:
 En la misma consola debemos ingresar los siguientes comandos:
 
     "cp .env.example .env"
-    "php artisan keye:generate"
+    "php artisan key:generate"
 
 Esto creara los archivos de configuracion de la base de datos.
         
