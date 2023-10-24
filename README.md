@@ -9,7 +9,7 @@ Instrucciones:
 2) Iniciar Laragon
 3) Seleccionar opcion de "Iniciar Todo" y luego seleccionar el boton "Base de Datos"
 4) crear una base de datos, con el nombre "mundopacifico"
-5) Iniciar Terminal, dirigirse a carpeta clonada con "cd mundo-app" y ejecutar comando
+5) Iniciar Terminal, dirigirse a carpeta clonada con "cd backend-mundo" y ejecutar comando
 
    "composer install"
 
