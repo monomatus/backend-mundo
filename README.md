@@ -52,5 +52,9 @@ Herramientas utilizadas
 
 
 
+Nota: El repositorio tien el nombre de mundo-app, porque ese es el nombre que se trabajo inicialmente. Y al utilizar el nombre de "backend-mundo", las consultas arrojaban error de consulta cruzada: Cors
+
+
+
 
 
